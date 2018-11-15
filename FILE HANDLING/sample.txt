@@ -1,0 +1,9 @@
+hello students 
+file handling classes discuss today
+they are 
+1.create 
+2.open
+3.read 
+4.write
+5.save 
+6.close
